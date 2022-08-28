@@ -16,9 +16,9 @@ export const load_page = ()=>{
     header.appendChild(menu);
     menu.classList.add(`menu`);
 
-    const element1 = document.createElement(`div`);
-    const element2 = document.createElement(`div`);
-    const element3 = document.createElement(`div`);
+    const element1 = document.createElement(`button`);
+    const element2 = document.createElement(`button`);
+    const element3 = document.createElement(`button`);
     
     element1.classList.add(`element`);
     element2.classList.add(`element`);
