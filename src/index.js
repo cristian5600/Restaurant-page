@@ -32,4 +32,3 @@ import {switch_to_contact} from "./contact";
 
 })();
 
-console.log(`hello my man`);
